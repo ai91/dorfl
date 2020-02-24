@@ -2,7 +2,7 @@
  * Firmware for WiFi Curtain/Blinds Switch module based on ESP8285:  
  * https://s.click.aliexpress.com/e/_dXr335D
  * 
- * For more information on wiring, flashing, etc. see https://ibn.by/...
+ * For more information on wiring, flashing, etc. see https://ibn.by/2020/02/23/dorfl-firmware/
  * 
  * Works via MQTT over WiFi, as well as with directly attached to wall switch.
  * As a rich feature, it also delivers to the MQTT it's state (position of blinds, 
