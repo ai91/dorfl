@@ -15,8 +15,9 @@
  *   * LED is on                       - module in fully operating mode. 
  *
  * Operation controls:
- *   * Lock at specific position       - when movement is activated with manual switch, quickly turn off switch and immediately
- *                                       press it again (delay must be less than 300ms)repeatedly
+ *   * Lock at specific position       - when manual switches are off, quickly turn switch on, then quickly 
+ *                                       turn off switch and immediately press it again (delays must be less 
+ *                                       than 300ms), and keep in pressed state (on-off-on).
  *   * Enter setup mode                - quickly press some switch 5 times
  *
  * Configuration (setup mode):
