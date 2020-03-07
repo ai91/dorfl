@@ -1,5 +1,5 @@
 # Dorfl
-Arduino project to control ESP8285-based relay-switch module from LoraTop, and use it as a blinds/shutter switch
+Arduino project to control ESP8285-based relay-switch module from LoraTap, and use it as a blinds/shutter switch
 
 # Info
 More detailed info on module: https://ibn.by/2020/02/23/dorfl-detritus-esp-module/
